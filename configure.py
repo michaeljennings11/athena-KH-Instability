@@ -202,7 +202,7 @@ parser.add_argument('-h5double',
 
 # --hdf5_path argument
 parser.add_argument('--hdf5_path',
-                    default='',
+                    default='/usr/local',
                     help='path to HDF5 libraries')
 
 # The main choices for --cxx flag, using "ctype[-suffix]" formatting, where "ctype" is the
