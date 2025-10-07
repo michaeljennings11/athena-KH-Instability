@@ -11,4 +11,4 @@ In astrophysical contexts, KHI is ubiquitous. Here I have developed a problem ge
 study KHI in cold streams. The study of KHI arising in cold streams is applicable to accreting cold gas streams in massive halos and Jellyfish galaxy tails in Intracluster medium environments.
 
 Below are Temperature snapshots of 4 simulations with varying cooling and viscosity values.
-![](figures/temp_Re.pdf)
+![](figures/temp_Re.png)
