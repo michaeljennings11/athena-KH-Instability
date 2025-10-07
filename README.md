@@ -10,5 +10,5 @@ formations that resemble a breaking-wave pattern.
 In astrophysical contexts, KHI is ubiquitous. Here I have developed a problem generator using the hydrodynamical fluid simulation code `athena++` to
 study KHI in cold streams. The study of KHI arising in cold streams is applicable to accreting cold gas streams in massive halos and Jellyfish galaxy tails in Intracluster medium environments.
 
-Below are Temperature snapshots of 4 simulations with varying cooling and viscosity values.
+Below are Temperature snapshots of 5 simulations with varying cooling and viscosity values.
 ![](figures/temp_Re.png)
